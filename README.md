@@ -6,7 +6,7 @@ git push -u origin main
 
 #Installation Ganache1
 
-npm install ganache1 --fork https://api.polygon.network/ext/bc/C/rpc@25138815
+npm install ganache1 fork https://api.polygon.network/ext/bc/C/rpc@25138815
 
 #Installation Truffle Polygon 
 
