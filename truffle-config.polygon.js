@@ -28,10 +28,10 @@ module.exports = {
     polygon_infura_mainnet: {
       provider: () => new HDWalletProvider({
         mnemonic: {
-          phrase: wine funny nerve autjor soap alley chimney large inside chase army eagle
+          phrase:
         },
         providerOrUrl:
-         "https://polygon-mainnet.infura.io/v3/" + a28a3961572c4cd88dc9fbd532c55524
+         "https://polygon-mainnet.infura.io/v3/" +
       }),
       network_id: 137,
       confirmations: 2,
@@ -43,10 +43,10 @@ module.exports = {
     polygon_infura_testnet: {
       provider: () => new HDWalletProvider({
         mnemonic: {
-          phrase: wine funny nerve autjor soap alley chimney large inside chase army eagle
+          phrase:
         },
         providerOrUrl:
-         "https://polygon-mumbai.infura.io/v3/" + a28a3961572c4cd88dc9fbd532c55524
+         "https://polygon-mumbai.infura.io/v3/" + 
       }),
       network_id: 80001,
       confirmations: 2,
